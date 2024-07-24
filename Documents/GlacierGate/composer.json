@@ -1,0 +1,9 @@
+{
+    "require": {
+        "slim/slim": "^4.0",
+        "slim/psr7": "^1.4",
+        "illuminate/database": "^8.0",
+        "guzzlehttp/guzzle": "^7.0",
+        "vlucas/phpdotenv": "^5.0"
+    }
+}
